@@ -1,0 +1,14 @@
+body { 
+    background-color: #F7EEFF; 
+    margin: 20px;
+}
+h1,h4,p,li{
+    flex-wrap: wrap;
+    font-family: 'STIX Two Text', serif;
+    color: #60402B;
+}
+.head {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
